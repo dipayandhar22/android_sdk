@@ -90,7 +90,15 @@ public class GlobalApplication extends Application {
                 Log.d("example", "Deferred deep link callback called!");
                 Log.d("example", "Deep link URL: " + deeplink);
 
-                return true;
+                return false;
+                else, 
+                
+                
+
+                return true; 
+
+
+
             }
         });
 
